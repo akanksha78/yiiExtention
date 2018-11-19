@@ -13,6 +13,6 @@
             "HelloWorld": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "matser",
     "prefer-stable": true
 }
