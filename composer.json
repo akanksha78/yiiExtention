@@ -2,10 +2,12 @@
     "name": "aktutorialspoint/hello-world",
     "authors": [
         {
-            "name": "tutorialspoint"
+            "name": "akanksha"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=5.4.0"
+    },
     "autoload": {
         "psr-0": {
             "HelloWorld": "src/"
