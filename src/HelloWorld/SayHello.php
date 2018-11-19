@@ -10,6 +10,6 @@ namespace HelloWorld;
 
    class SayHello {
       public static function world() {
-         return 'Hello World, Akanksha!';
+         return 'This is test message.';
       }
    }
